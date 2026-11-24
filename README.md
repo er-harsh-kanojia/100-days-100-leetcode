@@ -12,6 +12,7 @@ Every solution here is tested (official examples + edge cases + randomised check
 | 5 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | #53 | Medium | Kadane's algorithm | [solution](day-05-maximum-subarray/solution.py) |
 | 6 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | #217 | Easy | Hash set | [solution](day-06-contains-duplicate/solution.py) |
 | 7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | #242 | Easy | Counting | [solution](day-07-valid-anagram/solution.py) |
+| 8 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | #49 | Medium | Hash map · counting | [solution](day-08-group-anagrams/solution.py) |
 
 ## Run all tests
 ```bash
