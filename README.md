@@ -14,6 +14,7 @@ Every solution here is tested (official examples + edge cases + randomised check
 | 7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | #242 | Easy | Counting | [solution](day-07-valid-anagram/solution.py) |
 | 8 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | #49 | Medium | Hash map · counting | [solution](day-08-group-anagrams/solution.py) |
 | 9 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | #347 | Medium | Bucket sort | [solution](day-09-top-k-frequent-elements/solution.py) |
+| 10 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | #238 | Medium | Prefix · suffix products | [solution](day-10-product-of-array-except-self/solution.py) |
 
 ## Run all tests
 ```bash
